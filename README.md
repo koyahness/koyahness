@@ -1,4 +1,4 @@
-## Hi there, welcome to Koyah world of web3 in the EVM, SVM, cosmos and BTC ecosystems.⌨️
+## Hi there, welcome to Koyah world of web3 in the EVM, SVM, cosmos and BTC.⌨️
 
 <!--
 **koyaness/koyaness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Looking for free software any developer can contribute to the project?
