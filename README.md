@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there, welcome to Koyah world of web3 in the EVM, SVM, cosmos and BTC ecosystems.⌨️
 
 <!--
-**koyahness/koyahness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**koyaness/koyaness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
