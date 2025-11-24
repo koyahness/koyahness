@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Looking for free software any developer can contribute to the project?
 
-https://github.com/koyahness/open-source-projects/edit/main/README.md
+https://github.com/koyahness/open-source-projects/
