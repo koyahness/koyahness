@@ -24,4 +24,8 @@ Here are some ideas to get you started:
 
 ## Blockchain concepts
 
- Isolated smart contracts cannot access real-world data [Understanding The Oracle Problem in blockchain](https://github.com/koyahness/open-source-projects/blob/main/the_oracle_problem.md)
+The Genesis and Evolution of Bitcoin and Ethereum: [Two fundamental phases of blockchain technology](https://github.com/koyahness/open-source-projects/blob/main/evolution_genesis_of_Btc_and_ethereum.md)
+
+ Isolated smart contracts cannot access real-world data: [Understanding The Oracle Problem in blockchain](https://github.com/koyahness/open-source-projects/blob/main/the_oracle_problem.md)
+
+ 
