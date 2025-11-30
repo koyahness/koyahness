@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 
 [Open source projects](https://github.com/koyahness/open-source-projects/)
 
-[Understanding The Oracle Problem in blockchain](https://github.com/koyahness/open-source-projects/blob/main/the_oracle_problem.md)
+
+## Blockchain concepts
+
+[Understanding The Oracle Problem in blockchain](https://github.com/koyahness/open-source-projects/blob/main/the_oracle_problem.md) Isolated smart contracts cannot access real-world data
