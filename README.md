@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ### Looking for free software any developer can contribute to the project?
 
 https://github.com/koyahness/open-source-projects/
+
+(The Oracle Problem in blockchain)[https://github.com/koyahness/open-source-projects/blob/main/the_oracle_problem.md]
