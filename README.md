@@ -28,4 +28,6 @@ The Genesis and Evolution of Bitcoin and Ethereum: [Two fundamental phases of bl
 
  Isolated smart contracts cannot access real-world data: [Understanding The Oracle Problem in blockchain](https://github.com/koyahness/open-source-projects/blob/main/the_oracle_problem.md)
 
+Ethereum's Rollup-Centric Roadmap and Key Upgrades: [Layer-2 rollups](https://github.com/koyahness/open-source-projects/blob/main/Ethereum's_Rollup-Centric_Roamap.md)
+
  
