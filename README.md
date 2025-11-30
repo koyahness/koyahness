@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 https://github.com/koyahness/open-source-projects/
 
-(The Oracle Problem in blockchain)[https://github.com/koyahness/open-source-projects/blob/main/the_oracle_problem.md]
+[The Oracle Problem in blockchain](https://github.com/koyahness/open-source-projects/blob/main/the_oracle_problem.md)
