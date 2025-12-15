@@ -37,4 +37,7 @@ Build and deploy EVM dApp: [Foundry and React](https://github.com/koyahness/open
 
 <!--
 Build and deploy EVM dApp: [Truffle and react]()
+
+
+Build and deploy EVM dApp: next.js
 -->
