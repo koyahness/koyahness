@@ -36,7 +36,7 @@ Build and deploy EVM dApp: [Hardhat and React](https://github.com/koyahness/open
 Build and deploy EVM dApp: [Foundry and React](https://github.com/koyahness/open-source-projects/blob/main/fullEVM_dev_foundry.md)
 
 
-Build and deploy EVM dApp: [Truffle and Drizzle](https://github.com/koyahness/open-source-projects/blob/main/fullEVM_dev_truffle.md)
+Build and deploy EVM dApp: [Truffle and React](https://github.com/koyahness/open-source-projects/blob/main/fullEVM_dev_truffle.md)
 
 <!--
 Build and deploy EVM dApp: next.js
