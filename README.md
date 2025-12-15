@@ -33,3 +33,8 @@ Ethereum's Rollup-Centric Roadmap and Key Upgrades: [Layer-2 rollups](https://gi
 
 Build and deploy EVM dApp: [Hardhat and React](https://github.com/koyahness/open-source-projects/blob/main/fullEVM_dAppp_dev.md)
  
+Build and deploy EVM dApp: [Foundry and React](https://github.com/koyahness/open-source-projects/blob/main/fullEVM_dev_foundry.md)
+
+<!--
+Build and deploy EVM dApp: [Truffle and react]()
+-->
