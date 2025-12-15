@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [Open source projects](https://github.com/koyahness/open-source-projects/)
 
 
-## Blockchain concepts
+## Blockchain concepts & development
 
 The Genesis and Evolution of Bitcoin and Ethereum: [Two fundamental phases of blockchain technology](https://github.com/koyahness/open-source-projects/blob/main/evolution_genesis_of_Btc_and_ethereum.md)
 
