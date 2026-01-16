@@ -14,8 +14,27 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ....
 -->
+
+### 🤝 Lets Connect
+
+<table align="center">
+<tr>
+ 
+<td align="center">
+<a href="https://x.com/koyahness" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+ 
+</td>
+<td align="center">
+<a href="https://farcaster.xyz/koyah" target="_blank">
+<img src="https://img.shields.io/badge/Farcaster-8A63D2?style=for-the-badge&logo=farcaster&logoColor=white" alt="Farcaster"/>
+</a>
+</td>
+</tr>
+</table>
 
 ### Looking for free software any developer can contribute to the project?
 
@@ -41,21 +60,5 @@ Here are some ideas to get you started:
 Build and deploy EVM dApp: next.js
 -->
 
-### 🤝 Lets Connect
-
-<table align="center">
-<tr>
- 
-<td align="center">
-<a href="https://x.com/koyahness" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
- 
-</td>
-<td align="center">
-<a href="https://farcaster.xyz/koyah" target="_blank">
-<img src="https://img.shields.io/badge/Farcaster-8A63D2?style=for-the-badge&logo=farcaster&logoColor=white" alt="Farcaster"/>
-</a>
-</td>
-</tr>
-</table>
+## Most Written Languages
+![](https://github-readme-stats-gules-three-60.vercel.app/api/top-langs/?username=koyahness&hide=javascript,css,scss,html&theme=tokyonight)
