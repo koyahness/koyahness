@@ -62,12 +62,3 @@ Build and deploy EVM dApp: next.js
 
 ## Most Written Languages
 ![](https://github-readme-stats-gules-three-60.vercel.app/api/top-langs/?username=koyahness&hide=javascript,css,scss,html&theme=tokyonight)
-
-## 🏆 GitHub Trophies
-![](https://github-readme-stats-gules-three-60.vercel.app/?username=koyahness&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 🔝 Personal Github Stats
-![](https://github-readme-stats.vercel.app/api?username=koyahness&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=koyahness&limit=5&theme=dark&combine_all_yearly_contributions=true)
