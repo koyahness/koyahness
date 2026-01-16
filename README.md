@@ -1,4 +1,4 @@
-## Hi there, welcome to Koyah world of web3 in the EVM, SVM, Cosmos and BTC
+## Hi there, welcome to Koyah world of Web3
 
 Game, Code, Analyse/ Research & Write  ⌨️ ⌨️
 
