@@ -31,6 +31,36 @@ The Genesis and Evolution of Bitcoin and Ethereum: [Two fundamental phases of bl
 Ethereum's Rollup-Centric Roadmap and Key Upgrades: [Layer-2 rollups](https://github.com/koyahness/open-source-projects/blob/main/Ethereum's_Rollup-Centric_Roamap.md)
 
 
+### 🤝 Lets Connect
+
+<table align="center">
+<tr>
+ 
+<td align="center">
+<a href="https://x.com/koyahness" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+ 
+</td>
+<td align="center">
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+ 
+</td>
+<td align="center">
+<a href="https://discord.gg/koyahness" target="_blank">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+</td>
+<td align="center">
+<a href="https://farcaster.xyz/koyah" target="_blank">
+<img src="https://img.shields.io/badge/Farcaster-8A63D2?style=for-the-badge&logo=farcaster&logoColor=white" alt="Farcaster"/>
+</a>
+</td>
+</tr>
+</table>
+
 Build and deploy EVM dApp: [Hardhat and React](https://github.com/koyahness/open-source-projects/blob/main/fullEVM_dAppp_dev.md)
  
 Build and deploy EVM dApp: [Foundry and React](https://github.com/koyahness/open-source-projects/blob/main/fullEVM_dev_foundry.md)
