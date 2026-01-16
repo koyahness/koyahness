@@ -43,17 +43,6 @@ Ethereum's Rollup-Centric Roadmap and Key Upgrades: [Layer-2 rollups](https://gi
  
 </td>
 <td align="center">
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
- 
-</td>
-<td align="center">
-<a href="https://discord.gg/koyahness" target="_blank">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-</td>
-<td align="center">
 <a href="https://farcaster.xyz/koyah" target="_blank">
 <img src="https://img.shields.io/badge/Farcaster-8A63D2?style=for-the-badge&logo=farcaster&logoColor=white" alt="Farcaster"/>
 </a>
