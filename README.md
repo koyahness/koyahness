@@ -30,6 +30,16 @@ The Genesis and Evolution of Bitcoin and Ethereum: [Two fundamental phases of bl
 
 Ethereum's Rollup-Centric Roadmap and Key Upgrades: [Layer-2 rollups](https://github.com/koyahness/open-source-projects/blob/main/Ethereum's_Rollup-Centric_Roamap.md)
 
+Build and deploy EVM dApp: [Hardhat and React](https://github.com/koyahness/open-source-projects/blob/main/fullEVM_dAppp_dev.md)
+ 
+Build and deploy EVM dApp: [Foundry and React](https://github.com/koyahness/open-source-projects/blob/main/fullEVM_dev_foundry.md)
+
+
+Build and deploy EVM dApp: [Truffle and React](https://github.com/koyahness/open-source-projects/blob/main/fullEVM_dev_truffle.md)
+
+<!--
+Build and deploy EVM dApp: next.js
+-->
 
 ### 🤝 Lets Connect
 
@@ -49,14 +59,3 @@ Ethereum's Rollup-Centric Roadmap and Key Upgrades: [Layer-2 rollups](https://gi
 </td>
 </tr>
 </table>
-
-Build and deploy EVM dApp: [Hardhat and React](https://github.com/koyahness/open-source-projects/blob/main/fullEVM_dAppp_dev.md)
- 
-Build and deploy EVM dApp: [Foundry and React](https://github.com/koyahness/open-source-projects/blob/main/fullEVM_dev_foundry.md)
-
-
-Build and deploy EVM dApp: [Truffle and React](https://github.com/koyahness/open-source-projects/blob/main/fullEVM_dev_truffle.md)
-
-<!--
-Build and deploy EVM dApp: next.js
--->
