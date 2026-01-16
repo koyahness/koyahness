@@ -59,3 +59,6 @@ Build and deploy EVM dApp: next.js
 </td>
 </tr>
 </table>
+
+## Most Written Languages
+![](https://github-readme-stats-gules-three-60.vercel.app/api/top-langs/?username=koyahness&hide=javascript,css,scss,html&theme=tokyonight)
